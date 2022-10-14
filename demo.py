@@ -27,4 +27,3 @@ if __name__ == '__main__':
     #ds = ['30/01/2022', '02/03/2022', '29/03/2022']
     result = main(ds)
     print(round(result.loc[2,'mean'], 1))
-
