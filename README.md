@@ -1,2 +1,5 @@
-# Python-project---Find-mean-of-day-only-from-a-list-of-dates
-Demo code from task of freelance marketplace
+- 👋 Hi, I’m @michaelkaisman
+- 👀 I’m interested in python pandas
+- 🌱 I’m currently learning pandas matplotlib
+- 💞️ I’m looking to collaborate on datasync and machinlearning
+- 📫 How to reach me m71299956@gmail.com
